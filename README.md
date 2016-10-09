@@ -13,3 +13,5 @@ The structure of the java project is the following:
 6) <strong>CheckPedine.java</strong>: it checks wheater or not the pedine.txt is complied with rules.<br>
 7) <strong>CheckScacchiera.java</strong>: it checks wheater or not the scacchiera.txt is complied with rules. <br>
 8) <strong>Parser.java</strong>: it represents the java class used to transform a string object in a pedina object. <br>  
+
+
