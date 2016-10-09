@@ -5,7 +5,7 @@ This project is just a draft of the Quarto board game. Indeed, it is a ready to 
 
 The structure of the java project is the following:
 
-1) Pedine.txt: it represents a list of the pawns which will be used in the game;
+1) Pedine.txt: it represents a list of the pawns which will be used in the game;<br>
 2) Scacchiera.txt: it represents the physical area of the game in which the pawns will be located during the game.
 3) Quarto.java: it represents the main of the Java program. 
 4) Pedina.java: It represents the pedina object. Each pedina object or spawn has 4 features: height, colour, shape and volume.
