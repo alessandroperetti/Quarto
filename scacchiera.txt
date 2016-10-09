@@ -1,0 +1,4 @@
+BWTF ; AWTP ; ANTF ; BWQP ; 
+BWTP ; BNTF ; BWQF ; BNTP ; 
+* ; AWQF ; * ; ANTP ; 
+ANQF ; AWTF ; AWQP ; * ; 
